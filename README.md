@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ### STEP 5: Run the Application
 Finally, run the application using:
 ```
-python main.py
+python ./app/main.py
 ```
 
 ## License
