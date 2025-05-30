@@ -1,2 +1,6 @@
 venv
 .env
+app/__pycache__
+chatbot_ml_model.pkl
+vectorizer.pkl
+bank_db.sqlite
