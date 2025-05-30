@@ -9,7 +9,7 @@ nltk.download('punkt_tab')
 nltk.download('wordnet')
 nltk.download('stopwords')
 
-load_dotenv()
+load_dotenv("../app/.env")
 
 if __name__ == "__main__":
     root = tk.Tk()
